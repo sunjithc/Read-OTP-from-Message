@@ -191,7 +191,7 @@ OtpActivity.java
     }
     }
     
-    ![Screenshot 2021-03-22 at 7 06 04 PM](https://user-images.githubusercontent.com/12294662/111998128-b8882f80-8b41-11eb-8bf3-197531a5a0f5.png)
+ ![Screenshot 2021-03-22 at 7 06 04 PM](https://user-images.githubusercontent.com/12294662/111998128-b8882f80-8b41-11eb-8bf3-197531a5a0f5.png)
 
 interface OtpReceivedInterface 
 
